@@ -47,6 +47,7 @@ python cluster.py
 
 Some results with different settings:
 
+```
 > Number of centroids: 10
 > Data file size in megabytes: 100 (2000000 two dimensional points)
 
@@ -61,3 +62,4 @@ Some results with different settings:
 > Time spent calculating centroids: 779.876999855 seconds (13 minutes)
 > Time spent plotting: 989.68599987 seconds (16 minutes 30 seconds)
 > Objective function result: 40939.884787
+```
