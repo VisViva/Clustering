@@ -27,7 +27,7 @@ if generate == 'y':
 	size = float(raw_input("> Please enter data file size in megabytes: "))
 	savetxt('C:\output.txt', vstack((rand(size * 10000,2),rand(size * 10000,2))))
 
-# Calculate centroids\
+# Calculate centroids
 print("> Now calculating centroids")
 centroidTimeStart = time.time()
 with open("C:\output.txt", "r") as ins:
