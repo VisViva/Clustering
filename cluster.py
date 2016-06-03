@@ -1,8 +1,7 @@
-from numpy import vstack,array,savetxt
+from numpy import vstack,savetxt
 from numpy.random import rand
 from scipy.cluster.vq import kmeans,vq
 from scipy.spatial.distance import euclidean
-import scipy.cluster.hierarchy as hac
 import matplotlib.pyplot as plt
 import random
 import time
