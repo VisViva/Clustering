@@ -2,6 +2,10 @@
 
 K-Means clustering example written python using Scipy and Numpy
 
+Output:
+
+![Output](https://github.com/VisViva/Clustering/blob/master/cluster.jpg)
+
 ```
 python cluster.py
 > Please enter number of centroids: 25
