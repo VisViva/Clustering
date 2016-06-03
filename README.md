@@ -44,3 +44,24 @@ python cluster.py
 > Time spent plotting: 148.612999916
 > Objective function result: 264.987686639
 ```
+
+Some results with different settings:
+
+```
+> Number of centroids: 10
+> Data file size in megabytes: 100 (2000000 two dimensional points)
+
+> Limit: No
+
+> Time spent calculating centroids: 255.254999876 seconds (4 minutes 15 seconds)
+> Time spent plotting: 1098.23200011 seconds (18 minutes 18 seconds)
+> Objective function result: 33996.1672088
+> RAM usage: peak at ~400 mb
+
+> Limit: 50 points
+
+> Time spent calculating centroids: 779.876999855 seconds (13 minutes)
+> Time spent plotting: 989.68599987 seconds (16 minutes 30 seconds)
+> Objective function result: 40939.884787
+> RAM usage: peak at ~30 mb
+```
