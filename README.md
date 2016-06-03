@@ -1,6 +1,11 @@
 # Clustering example in python
 
-K-Means clustering example written python using Scipy and Numpy
+K-Means clustering example written in python using Scipy and Numpy.
+Limit can be defined to invoke RAM - friendly calculations.
+
+Output:
+
+![Output](https://github.com/VisViva/Clustering/blob/master/cluster.jpg)
 
 ```
 python cluster.py
