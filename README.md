@@ -5,7 +5,15 @@ Limit can be defined to invoke RAM - friendly calculations.
 
 Output:
 
-![Output](https://github.com/VisViva/Clustering/blob/master/cluster.jpg)
+![Output](https://github.com/VisViva/Clustering/blob/master/images/cluster.jpg)
+
+Objective function:
+
+![Output](https://github.com/VisViva/Clustering/blob/master/images/objective_function.jpg)
+
+![Output](https://github.com/VisViva/Clustering/blob/master/images/x.jpg) - data point in the cluster j
+
+![Output](https://github.com/VisViva/Clustering/blob/master/images/c.jpg) - centroid in the cluster j
 
 ```
 python cluster.py
